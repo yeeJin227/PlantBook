@@ -1,0 +1,12 @@
+# Blender 4.0.1 MTL File: '방울토마토.blend'
+# www.blender.org
+
+newmtl M_LV1_Tomato
+Ns 455.930908
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.650000
+d 1.000000
+illum 2
+map_Kd Tomato/T_LV1_Tomato.png
